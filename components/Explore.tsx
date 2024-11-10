@@ -64,10 +64,10 @@ const Explore = () => {
 
   {/* box 4 */}
   <div className="bg-[#715b96] rounded-lg p-8 shadow-md max-w-sm mx-auto text-center font-bold text-2xl text-white">
-    How Developers Destroy Brain Health
+    Top 10 Platforms to Practice Phyton
     <div className="mt-4">
       <Link
-        href="https://dev.to/ssukhpinder/how-developers-destroy-brain-health-4kgd?ref=dailydev"
+        href="https://www.marktechpost.com/2024/10/29/top-10-platforms-to-practice-python/?ref=dailydev"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-4 py-1 bg-white text-[#715b96] font-medium text-lg rounded-md shadow hover:bg-gray-300 transition duration-200"
